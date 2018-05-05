@@ -1,2 +1,4 @@
 # hello-world
-my first git ever
+
+"Knowledge itself is power".
+Let's learn something totally new!
